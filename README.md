@@ -1,7 +1,7 @@
 Welcome to my comic/movie/anime webapp!
 Visit the web page at https://movies-e6df3.web.app/
 
-This is a simple react Web-app.
+
 
 How to get Started:
 1.Clone the repo
